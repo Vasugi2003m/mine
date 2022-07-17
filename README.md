@@ -1,1 +1,2 @@
 # mine
+basic git  commands
